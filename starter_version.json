@@ -1,5 +1,5 @@
 {
-  "versionCode": 99,
+  "versionCode": 1,
   "versionName": "2025.12.11-starter",
   "apkUrl": "https://github.com/horstnowitz-hub/hno-updates/releases/download/v251211/update_starter.apk",
   "changelog": "Starter-App mit Adminmenü, PDF-Import und GitHub-Update.",
