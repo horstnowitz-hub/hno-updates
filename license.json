@@ -111,7 +111,7 @@
       "enabled": true,
       "customer": "",
       "note": "Woodwave Standard Reserve 04",
-      "enabled_siwave": false
+      "enabled_siwave": true
     },
     {
       "code": "WWS-U9FCN4",
