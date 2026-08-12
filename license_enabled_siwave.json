@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "licenses": [
+    {
+      "code": "SWG-4GTH43",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 01",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-UV78GT",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 02",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-MHKUQC",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 03",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-84V2HS",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 04",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-7EHARK",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 05",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-VGJSJ3",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 06",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-PMVSSV",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 07",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-D4XA4H",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 08",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-C6YP3C",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 09",
+      "enabled_siwave": true
+    },
+    {
+      "code": "SWG-U32ZPB",
+      "type": "SWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Siwave Grafik Reserve 10",
+      "enabled_siwave": true
+    },
+    {
+      "code": "WWS-KBQVN9",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 01",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-ZCBGNM",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 02",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-X2F6ZZ",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 03",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-F9S7AN",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 04",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-U9FCN4",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 05",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-RYMKG2",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 06",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-SPP6FK",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 07",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-9ESGSE",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 08",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-HMQ3FX",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 09",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWS-ZMQ8N6",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Reserve 10",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-JYZ6SB",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 01",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-YCNBGB",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 02",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-G2BRG8",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 03",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-UVTBRU",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 04",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-WTMRYN",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 05",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-TRRRDQ",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 06",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-TSN4X9",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 07",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-E2V9CH",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 08",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-DDPJBD",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 09",
+      "enabled_siwave": false
+    },
+    {
+      "code": "WWG-KM97S7",
+      "type": "WWG",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Grafik Reserve 10",
+      "enabled_siwave": false
+    }
+  ]
+}
