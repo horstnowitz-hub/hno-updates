@@ -82,6 +82,14 @@
       "enabled_siwave": true
     },
     {
+      "code": "WWS-HNO291",
+      "type": "WWS",
+      "enabled": true,
+      "customer": "",
+      "note": "Woodwave Standard Migrationslizenz",
+      "enabled_siwave": false
+    },
+    {
       "code": "WWS-KBQVN9",
       "type": "WWS",
       "enabled": true,
